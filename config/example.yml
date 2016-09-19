@@ -1,0 +1,33 @@
+game_one:
+  name: "FedEx Field Steelers @ Redskins, Week 1"
+  latitude: 38.907778
+  longitude: -76.864444
+  radius: 1
+  start_time: "2016-09-12T22:10:00Z"
+  end_time: "2016-09-13T01:10:00Z"
+  ids:
+    - 276962598
+    - 56329
+    - 300650358
+    - 325712
+    - 227890499
+    - 425610713
+    - 284600847
+    - 300424836
+
+game_two:
+  name: "Levi's Stadium Rams @ 49ers, Week 1"
+  latitude: 37.403
+  longitude: -121.97
+  radius: 1
+  start_time: "2016-09-13T01:20:00Z"
+  end_time: "2016-09-13T05:20:00Z"
+  ids:
+    - 239586494
+    - 430954114
+    - 417032157
+    - 1812889265593394
+    - 379613542
+    - 1019883615
+    - 1018266520
+    - 371755435
